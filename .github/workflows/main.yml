@@ -28,6 +28,6 @@ jobs:
           FTP_SERVER: hyu7395310001.my3w.com
           FTP_USERNAME: hyu7395310001
           FTP_PASSWORD: ${{ secrets.BLOG_FTP_PASSWORD }}
-          LOCAL_DIR: /.vuepress/dist
+          LOCAL_DIR: /dist
           REMOTE_DIR: /htdocs
           ARGS: --delete --transfer-all --exclude=logreport --verbose
