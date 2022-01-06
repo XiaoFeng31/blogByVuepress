@@ -68,7 +68,7 @@ module.exports = {
     recordLink: "https://icp.chinaz.com/imbaxxf.cn",
     cyberSecurityRecord: "浙公网安备 20010030号",
     cyberSecurityLink:
-      "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=20010030",
+      "https://beian.miit.gov.cn/",
     startYear: "2020", // 项目开始时间，只填写年份
     lastUpdated: "最后更新时间", // string | boolean
     author: "晚时听竹",
